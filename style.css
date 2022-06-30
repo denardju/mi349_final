@@ -39,3 +39,7 @@ width: 1160px;
 color: #000;
 }
 
+section{
+display: flex;
+}
+
