@@ -48,8 +48,8 @@ margin-top: 20px;
 }
 
 .slide-images{
-width: 3600px;
-height: 800px;
+width: 3000px;
+height: 600px;
 margin: 0 0 0 -2400px;
 position: relative;
 -webkit-animation-name: slide_animation;
