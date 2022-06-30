@@ -61,6 +61,11 @@ display: flex;
 }
 
 h2{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 color: #006db0;
+}
+
+.solo-img{
+padding-top: 20px;
 }
 
