@@ -58,3 +58,10 @@ position: relative;
 -webkit-animation-direction: alternate;
 -webkit-animation-play-state: running;
 }
+
+.img-container{
+height: 800px;
+width: 1200px;
+position: relative;
+float: left;
+}
