@@ -23,14 +23,14 @@ color: #006db0;
 }
 
 img{
-text-align: justify;
 display: block;
 margin: 0 auto;
 }
 
 .news-link{
+text-align: justify;
 font-size: large;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-margin: 0 auto;
+width: 1160px;
 }
 
