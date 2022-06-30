@@ -35,6 +35,15 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 width: 1160px;
 }
 
+.news-link-mini{
+padding: auto;
+margin: 0 auto;
+text-align: justify;
+font-size: large;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+width: 800px;
+}
+
 .news-link p{
 color: #000;
 }
