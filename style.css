@@ -17,11 +17,8 @@ word-spacing: 50px;
 }
 
 h1{
-font: size 500px;
+font-size:  500px;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 color: #006db0;
 }
 
-section{
-margin-top: 40px;
-}
