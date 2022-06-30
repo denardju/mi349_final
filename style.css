@@ -17,10 +17,13 @@ word-spacing: 50px;
 }
 
 h1{
-font-size:  500px;
+font-size:  100px;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 color: #006db0;
 }
 
-
+.news-link{
+font-size: large;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 
